@@ -1,0 +1,15 @@
+Viewing a diff between two version narrows the problem down to only the differences.  Without this it would be impossible to find the problem in a practical length of time.
+
+Using History - You could use some old code that was deleted from the current version.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+The Git-like ones are more sophisticated and allow tracking on a project level.  Google docs for instance is not generally tracking projects, but tracking a single entity, like a spreadsheet.
+
+How can you use the commands git log and git diff to view the history of files?
+log gives you a list of all changes.  diff shows you what those changes look like.
+
+How might using version control make you more confident to make changes that could break something?
+You always know you can discard your errors and get back to a known version.  Like having a net in case you fall.
+
+ow that you have your workspace set up, what do you want to try using Git for?
+Working with branches.
