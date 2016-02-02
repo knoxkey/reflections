@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 A .git file is created to hold metadata for your repository.  Without it, git has nothing do do with the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The repository only hold the files that are to be committed next. The repository and the working directory both hold all the other files as well.
