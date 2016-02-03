@@ -9,3 +9,6 @@ By doing diff —staged you can be sure you are only committing one change.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to experiment with a new feature, but keep the working model in place.  Or when you want to develop an alternative version in parallel.
+
+How do the diagrams help you visualize the branch structure?
+Dumb question.  A diagram is a visualization of the structure.  Notes can be added.  Easy to see how many commits in each branch.
