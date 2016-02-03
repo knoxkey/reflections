@@ -3,3 +3,9 @@ A .git file is created to hold metadata for your repository.  Without it, git ha
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The repository only hold the files that are to be committed next. The repository and the working directory both hold all the other files as well.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By doing diff —staged you can be sure you are only committing one change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to experiment with a new feature, but keep the working model in place.  Or when you want to develop an alternative version in parallel.
