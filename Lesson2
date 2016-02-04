@@ -15,3 +15,6 @@ Dumb question.  A diagram is a visualization of the structure.  Notes can be add
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 One of the branches goes away.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git can do a lot of the work accurately.  I cannot think of any cons.
