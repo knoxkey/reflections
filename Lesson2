@@ -11,7 +11,7 @@ What are some situations when branches would be helpful in keeping your history 
 When you want to experiment with a new feature, but keep the working model in place.  Or when you want to develop an alternative version in parallel.
 
 How do the diagrams help you visualize the branch structure?
-Dumb question.  A diagram is a visualization of the structure.  Notes can be added.  Easy to see how many commits in each branch.
+Notes can be added.  Easy to see how many commits in each branch.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 One of the branches goes away.
