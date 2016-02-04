@@ -11,5 +11,5 @@ log gives you a list of all changes.  diff shows you what those changes look lik
 How might using version control make you more confident to make changes that could break something?
 You always know you can discard your errors and get back to a known version.  Like having a net in case you fall.
 
-ow that you have your workspace set up, what do you want to try using Git for?
+Now that you have your workspace set up, what do you want to try using Git for?
 Working with branches.
